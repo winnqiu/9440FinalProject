@@ -4,11 +4,11 @@ import logging
 import time
 import csv 
 
-API_KEY = 'AIzaSyAkcnNPhFjqJ4IXi2LuHfxVr4tO8kBhGv4'
+API_KEY = 'My Key'
 
-output_filename = 'D:/Winn/Baruch College/2020Fall/CIS9440/GroupProject/data/Arrests/zipcoded.csv'
+output_filename = 'zipcoded.csv'
 
-input_filename = "D:/Winn/Baruch College/2020Fall/CIS9440/GroupProject/data/Arrests/latlng.csv"
+input_filename = "latlng.csv"
 
 ColumnName='location'
 # Return Full Google Results? If True, full JSON results from Google are included in output
